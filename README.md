@@ -1,4 +1,4 @@
-# Hi, I'm Non_Nexxy 👋  
+### Hi, I'm Non_Nexxy 👋  
 I focus on technical side of Minecraft servers — backend systems, automation, and making things actually work reliably.
 
 For 5+ years, I've been working with server setups, configs, and Discord infrastructure.  
@@ -42,11 +42,6 @@ I enjoy digging into problems, fixing broken systems, and improving how everythi
 - Improving scripting and automation (beyond configs)
 - Learning more about backend systems and server-side logic
 - Exploring cybersecurity basics and system security
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dzekubry&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=dzekubry&theme=tokyonight&border_radius=5)
 
 ---
 
