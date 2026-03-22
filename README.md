@@ -1,4 +1,4 @@
-## Hi, I'm Non_Nexxy 👋  
+## Hi, I'm Nexxy 👋  
 I focus on the technical side of Minecraft servers — backend systems, automation, and making things actually work reliably.
 
 For 5+ years, I've been working with server setups, configs, and Discord infrastructure.  
